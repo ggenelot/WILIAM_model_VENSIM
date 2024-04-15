@@ -1,3 +1,5 @@
+This is a fork from the WILIAM project. It aims at trying multiple damage functions in the WILIAM model. 
+
 # WILIAM (Vensim)
 
 This repository contains the WILIAM model in the VENSIM version. This model is one of the results from LOCOMOTION project, and its development continues after the project.
